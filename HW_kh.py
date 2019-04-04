@@ -1,6 +1,5 @@
 import matplotlib.pyplot as plt
 import numpy as np
-#숙제)2016_GDP.txt 파일을 읽어 들여 상위 10개의 나라를 막대그래프로
 
 info = []
 with open('./Data/2016_GDP.txt','r',encoding='utf-8') as fp:
